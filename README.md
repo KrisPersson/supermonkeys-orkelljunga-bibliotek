@@ -2,7 +2,10 @@
 
 Super Monkeys
 
-* Sime Edin, Marvan Al Kufai, Martin Johansson, och Kristofer Persson
+  Sime Edin, 
+  Marvan Al Kufai, 
+  Martin Johansson,
+  Kristofer Persson
 
 
 
